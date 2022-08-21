@@ -1,5 +1,5 @@
 # ----------------[Arquivo_Para_Tirar_Dúvuidas]------------------ #
-# Opa! Como estás? :) Esse repositorio, como o próprio nome já    #
+# Opa! Como estás? :) Esse repositório, como o próprio nome já    #
 # diz, tem a função de auxiliar em algumas dúvidas, ou tentar     #
 # auxiliar pelo menos. Em uma breve explicação, isso vai ser tipo #
 # um wikipedia da vida, onde vai mostrar/relembrar alguns         #
