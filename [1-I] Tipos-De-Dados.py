@@ -15,7 +15,7 @@
 #   +---------------------------------------------------------+   #
 #   |  Inteiro                  |           int               |   #
 #   |  Ponto Flutuante/Decimal  |          float              |   #
-#   |  Lista                    | [Esqueça por em quanto...]  |   #
+#   |  Lista                    |           List              |   #
 #   |  String                   |           str               |   #
 #   |  Boolean                  |           bool              |   #
 #   |  Tipo Complexo            | [Esqueça por em quanto...]  |   #
@@ -27,7 +27,7 @@
 # |números completos. Ex: 1; 2; 3; -21; -777...                 | #
 # |--------------------[Exemplo-Em-Código]----------------------| #
 idade = int(input("Digite sua idade: "))
-print("Você tem",idade, "Anos.")
+print("Você tem", idade, "Anos.")
 # +-----------------------[Observações]-------------------------+ #
 # | "idade" é o [Nome] da variável, "int" o [Tipo] e o "Input"  | #
 # |recebe algum valor (No caso um número), nele também pode ser | #
@@ -40,7 +40,19 @@ print("Você tem",idade, "Anos.")
 # | conhecido como “número quebrado”.                           | #
 # +--------------------[Exemplo-Em-Código]----------------------+ #
 seu_Salario=float(input("Digite seu salário: "))
-print("Você ganha",seu_Salario)
+print("Você ganha", seu_Salario)
+# +-------------------------------------------------------------+ #
+# |          -                                       -          | #
+# |--------------------------[Listas]---------------------------| #
+# | Listas agrupam um conjunto de elementos variados, podendo   | #
+# |conter: inteiros, floats, strings, outras listas e outros    | #
+# |tipos.                                                       | #
+# +--------------------[Exemplo-Em-Código]----------------------+ #
+alunos = ['Isac', 'Isa', 'Bruno', 'Sarah', 'João']
+notas = [9.9, 10, +999, 9.7, 9.9] 
+# +-----------------------[Observações]-------------------------+ #
+# | Elas são definidas utilizando colchetes para delimitar a    | #
+# |lista e vírgulas para separar os elementos.                  | #
 # +-------------------------------------------------------------+ #
 # |          -                                       -          | #
 # |--------------------------[String]---------------------------| #
