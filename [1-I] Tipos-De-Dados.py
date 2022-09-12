@@ -48,7 +48,7 @@ print("Você ganha", seu_Salario)
 # |conter: inteiros, floats, strings, outras listas e outros    | #
 # |tipos.                                                       | #
 # +--------------------[Exemplo-Em-Código]----------------------+ #
-alunos = ['Isac', 'Isa', 'Bruno', 'Sarah', 'João']
+alunos = ['Isac', 'FakeDoIsac', 'Bruno', 'Sarah', 'João']
 notas = [9.9, 10, +999, 9.7, 9.9] 
 # +-----------------------[Observações]-------------------------+ #
 # | Elas são definidas utilizando colchetes para delimitar a    | #
